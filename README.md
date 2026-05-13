@@ -1,5 +1,7 @@
 # shipstats — OpenCode Skill
 
+[![skills.sh](https://skills.sh/b/wdelcant/shipstats-opencode-skill)](https://skills.sh/wdelcant/shipstats-opencode-skill)
+
 > A single skill that turns your weekly metrics into a brand-aligned poster for X. JSON in, screenshot-ready HTML out. No install, no SDK, no API key.
 
 ![shipstats example](../examples/tegu-may-26.jpeg)
@@ -14,7 +16,7 @@ Drop your numbers, your design system, and (optionally) your logo — get back a
 
 ```bash
 # Install directly from the skill registry
-opencode skill add mativallej/shipstats
+npx skills add wdelcant/shipstats-opencode-skill
 ```
 
 ### Option 2 — Manual install
