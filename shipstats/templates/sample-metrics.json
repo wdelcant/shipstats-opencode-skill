@@ -1,0 +1,44 @@
+{
+  "period": "01-31 mar 2026",
+  "hero_metric": {
+    "name": "Nuevos usuarios",
+    "value": 12480,
+    "delta_pct": 22.7,
+    "delta_label": "vs. feb 2026"
+  },
+  "support_metrics": [
+    { "name": "MRR (USD)", "value": "8.420" },
+    { "name": "Países activos", "value": 18 },
+    { "name": "Conversión a paid", "value": "6,4%" }
+  ],
+  "cumulative": {
+    "previous_total": 28140,
+    "current_total": 40620,
+    "label": "Usuarios acumulados YTD"
+  },
+  "breakdown": [
+    { "name": "Plan Pro", "value": 6840 },
+    { "name": "Plan Team", "value": 3120 },
+    { "name": "Plan Free → Pro", "value": 1685 },
+    { "name": "Plan Enterprise", "value": 520 },
+    { "name": "Otros", "value": 315 }
+  ],
+  "daily_series": [
+    { "day": "01 mar", "value": 348 },
+    { "day": "08 mar", "value": 376 },
+    { "day": "15 mar", "value": 401 },
+    { "day": "22 mar", "value": 462 },
+    { "day": "29 mar", "value": 538 }
+  ],
+  "traffic": {
+    "landing_visits": 24380,
+    "signup_conversion_pct": 6.4,
+    "new_signups": 1560,
+    "channels": [
+      { "name": "Orgánico", "pct": 48 },
+      { "name": "Paid Social", "pct": 22 },
+      { "name": "Referral", "pct": 18 },
+      { "name": "Direct", "pct": 12 }
+    ]
+  }
+}
